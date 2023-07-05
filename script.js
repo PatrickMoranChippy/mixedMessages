@@ -10,3 +10,11 @@ quoteStructure[0] = {
     _forthSigWord: ["masterpiece", "magnum opus", "piece de resistance"]
 }
 
+quoteStructure[1] = {
+    _structure: "There 1 two ways of 2 light, to be the 3, or the 4 that reflects it.",
+    _firstSigWord: ["are", "exists", "happens to be"],
+    _secondSigWord: ["spreading", "illuminating", "sharing"],
+    _thirdSigWord: ["candle", "torch", "fire"],
+    _forthSigWord: ["mirror", "disco ball", "surface"]
+}
+
