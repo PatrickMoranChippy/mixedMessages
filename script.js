@@ -18,3 +18,11 @@ quoteStructure[1] = {
     _forthSigWord: ["mirror", "disco ball", "surface"]
 }
 
+quoteStructure[2] = {
+    _structure: "No 1 2, no 3 4.",
+    _firstSigWord: ["great", "unrelenting", "motivating"],
+    _secondSigWord: ["pressure", "hardship", "adversity"],
+    _thirdSigWord: ["beautiful", "breathtaking", "stunning"],
+    _forthSigWord: ["diamonds", "outcome", "result"]
+}
+
