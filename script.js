@@ -23,7 +23,7 @@ quoteStructure[1] = {
 };
 
 quoteStructure[2] = {
-    _structure: ["No ", 1, 2, ", no ", 3, 4, "."],
+    _structure: "No 1 2, no 3 4.",
     _firstSigWord: ["great ", "unrelenting ", "motivating "],
     _secondSigWord: ["pressure", "hardship", "adversity"],
     _thirdSigWord: ["beautiful ", "breathtaking ", "stunning "],
